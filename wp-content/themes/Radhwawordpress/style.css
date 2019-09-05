@@ -1,0 +1,52 @@
+/*
+Theme Name: Radhwawordpress
+Author: Radhwa
+Description: Start with wordpress
+Version: 0.0.1
+Tags: bootstrap
+*/
+
+
+/* <============ HTML / BODY ============> */
+
+.spacephoto{
+  width: 500px;
+  height: 400px;
+  margin: 50px;
+}
+
+.paragraphedemo{
+	font-size: 18px;
+}
+#bouton{
+	margin:20px;
+	margin-left: 50px;
+
+}
+
+#sidebarmenu2{
+	float: right;
+	margin: 45px;
+	margin-top: 120px;
+	font-size: 20px;
+}
+
+#sidebarmenu{
+	float: right;
+	margin-top: 40px;
+	margin-right: -340px;
+	margin-bottom: 50px;
+	font-size: 15px;
+}
+span{
+	color: blue;
+	font-size: 20px;
+}
+.number1{
+	width: 50px;
+	margin:8px;
+}
+#partie{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
