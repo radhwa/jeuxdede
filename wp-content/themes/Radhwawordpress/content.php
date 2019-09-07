@@ -38,10 +38,11 @@ get_header(); ?>
 	</div>
 
 	<div>
-	<a href="<?php echo get_template_directory_uri(); ?>/regles.php"><button type="button" class="btn btn-primary" data-toggle="button" aria-pressed="false" autocomplete="off" id="bouton"> Régles des jeux</button></a>
+	<a href="<?php echo get_permalink(51);?>"><button type="button" class="btn btn-primary" id="bouton"> Régles des jeux</button></a>
 	
-  	<a href="<?php echo get_template_directory_uri(); ?>/inscription.php"><button type="button" class="btn btn-primary">Commencer une partie</button></a>
+  	<a href="<?php echo get_permalink(45);?>"><button type="button" class="btn btn-primary">Commencer une partie</button></a>
   	</div>
+
 
   <!-- <hr /> -->
 
